@@ -1,0 +1,11 @@
+@media screen and (max-width: 1251px) {
+    #right {
+      display: none;
+    }
+  }
+
+  @media screen and (min-width: 1251px) {
+    #right {
+      display: flex;
+    }
+  }
